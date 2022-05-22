@@ -1,0 +1,3 @@
+hibernate\App.class
+hibernate\entity\Student.class
+hibernate\util\HibernateUtil.class
